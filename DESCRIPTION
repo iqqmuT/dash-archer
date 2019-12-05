@@ -1,0 +1,15 @@
+Package: dashArcher
+Title: Dash component for react-archer
+Version: 0.0.1
+Authors @R: as.person(c(Tuomas Jaakola <tuomas.jaakola@iki.fi>))
+Description: Dash component for react-archer
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/iqqmuT/dash-archer
+BugReports: https://github.com/iqqmuT/dash-archer/issues
+Encoding: UTF-8
+LazyData: true
+Author: Tuomas Jaakola [aut]
+Maintainer: Tuomas Jaakola <tuomas.jaakola@iki.fi>
