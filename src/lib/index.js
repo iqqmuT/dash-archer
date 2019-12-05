@@ -1,4 +1,5 @@
 /* eslint-disable import/prefer-default-export */
-import DashArcher from './components/DashArcher.react';
+import DashArcherContainer from './components/DashArcherContainer.react';
+import DashArcherElement from './components/DashArcherElement.react';
 
-export {DashArcher};
+export {DashArcherContainer, DashArcherElement};

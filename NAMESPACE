@@ -1,4 +1,6 @@
 # AUTO GENERATED FILE - DO NOT EDIT
 
-export(DashArcher)
-export(dashArcher)
+export(DashArcherContainer)
+export(DashArcherElement)
+export(dashArcherContainer)
+export(dashArcherElement)

@@ -1,16 +1,16 @@
 # AUTO GENERATED FILE - DO NOT EDIT
 
-dashArcher <- function(id=NULL, label=NULL, value=NULL) {
+dashArcherElement <- function(children=NULL, id=NULL, relations=NULL) {
     
-    props <- list(id=id, label=label, value=value)
+    props <- list(children=children, id=id, relations=relations)
     if (length(props) > 0) {
         props <- props[!vapply(props, is.null, logical(1))]
     }
     component <- list(
         props = props,
-        type = 'DashArcher',
+        type = 'DashArcherElement',
         namespace = 'dash_archer',
-        propNames = c('id', 'label', 'value'),
+        propNames = c('children', 'id', 'relations'),
         package = 'dashArcher'
         )
 

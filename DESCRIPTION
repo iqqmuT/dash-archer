@@ -6,7 +6,7 @@ Description: Dash component for react-archer
 Depends: R (>= 3.0.2)
 Imports: 
 Suggests: 
-License: MIT + file LICENSE
+License: MIT
 URL: https://github.com/iqqmuT/dash-archer
 BugReports: https://github.com/iqqmuT/dash-archer/issues
 Encoding: UTF-8

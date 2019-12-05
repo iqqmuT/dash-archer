@@ -25,7 +25,8 @@
   "author": "Tuomas Jaakola <tuomas.jaakola@iki.fi>",
   "license": "MIT",
   "dependencies": {
-    "ramda": "^0.26.1"
+    "ramda": "^0.26.1",
+    "react-archer": "^1.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.4",
