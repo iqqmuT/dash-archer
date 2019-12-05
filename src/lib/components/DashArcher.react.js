@@ -27,7 +27,7 @@ export default class DashArcher extends Component {
                          * app server if a callback uses the modified prop as
                          * Input or State.
                          */
-                        e => setProps({ value: e.target.value })
+                        e => setProps({value: e.target.value})
                     }
                 />
             </div>
@@ -57,5 +57,5 @@ DashArcher.propTypes = {
      * Dash-assigned callback that should be called to report property changes
      * to Dash, to make them available for callbacks.
      */
-    setProps: PropTypes.func
+    setProps: PropTypes.func,
 };

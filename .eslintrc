@@ -29,7 +29,8 @@
   },
   "plugins": [
     "react",
-    "import"
+    "import",
+    "prettier"
   ],
   "rules": {
     "accessor-pairs": ["error"],
@@ -89,6 +90,7 @@
     "no-useless-concat": ["error"],
     "no-with": ["error"],
     "prefer-const": ["error"],
+    "prettier/prettier": ["error"],
     "radix": ["error"],
     "react/jsx-no-duplicate-props": ["error"],
     "react/jsx-no-undef": ["error"],
