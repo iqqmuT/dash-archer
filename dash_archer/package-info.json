@@ -1,6 +1,6 @@
 {
   "name": "dash_archer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Dash component for react-archer",
   "repository": {
     "type": "git",
